@@ -21,7 +21,7 @@ A simple Python script to merge multiple Excel files from a specified folder int
 1. Clone this repository or download the script.
 
    ```bash
-   git clone https://github.com/yourusername/merge-excel-files.git
+   git clone https://github.com/majidfeiz/merge-excel-files.git
    cd merge-excel-files
    ```
 
